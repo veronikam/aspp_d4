@@ -1,0 +1,1 @@
+{"dtype": "|S100", "cparams": {"shuffle": true, "clevel": 9}, "chunklen": 10485, "dflt": "", "expectedlen": 10000054}

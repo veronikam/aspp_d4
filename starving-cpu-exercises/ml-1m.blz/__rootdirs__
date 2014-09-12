@@ -1,0 +1,1 @@
+{"dirs": {"rating": "ml-1m.blz/rating", "genres": "ml-1m.blz/genres", "movie_id": "ml-1m.blz/movie_id", "title": "ml-1m.blz/title", "unix_timestamp": "ml-1m.blz/unix_timestamp", "user_id": "ml-1m.blz/user_id"}, "names": ["movie_id", "title", "genres", "user_id", "rating", "unix_timestamp"]}
